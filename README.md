@@ -1,4 +1,3 @@
 # Task_check
-spi構成を理解するために作成した簡単なタスク管理アプリ
 バックエンドrails,フロントエンドreactで作成,UIはchakraを使用
 railsのMVC,reactのコンポーネント,reacthooksの活用
